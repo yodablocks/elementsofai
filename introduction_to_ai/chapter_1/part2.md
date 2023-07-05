@@ -2,6 +2,10 @@
 
 ## Exercise 2: Taxonomy of AI
 
+## Your task: 
+
+> Construct a taxonomy in the Euler diagram example given below showing the relationships between the following things: AI, machine learning, computer science, data science, and deep learning.
+
 ![exercise2](https://github.com/yodablocks/elementsofai/assets/83685559/7fd2791e-09ef-4cea-8bd9-3c04f58f3577)
 
 ### 1. Where would you put AI?
