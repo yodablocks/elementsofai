@@ -22,6 +22,7 @@ On the second-highest level, fill in the values by choosing for each node the ma
 
 Select the correct answer
 + 1
-+ -1
++ **-1**
 + 0
 
+The value is -1. The values on the second level are 0, 0, and -1. The values on the third level are -1, 0, -1, 0, -1, -1, which are the same as the values on the bottom level. As you can see, Max has all the reason to be serious since by playing in the bottom-right corner, Min can guarantee a win. The inevitable victory of Min can also be seen from the value of the game -1.
