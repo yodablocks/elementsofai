@@ -11,7 +11,7 @@
 ### 1. Where would you put AI?
 
 - Section A
-- Section B
+- **Section B**
 - Section C
 - Section D
 - Section E
@@ -20,13 +20,13 @@
 
 - Section A
 - Section B
-- Section C
+- **Section C**
 - Section D
 - Section E
 
 ### 3. Where would you put computer science?
 
-- Section A
+- **Section A**
 - Section B
 - Section C
 - Section D
@@ -38,12 +38,44 @@
 - Section B
 - Section C
 - Section D
-- Section E
+- **Section E**
 
 ### 5. Where would you put deep learning?
 
 - Section A
 - Section B
 - Section C
-- Section D
+- **Section D**
 - Section E
+
+# Exercise 3: Examples of tasks
+
+### Autonomous car
+
+- **Statistics**
+- **Robotics**
+- **Machine Learning**
+
+### Steering a rocket into orbit 
+
+- Statistics
+- **Robotics**
+- Machine Learning
+
+### Online ad optimization
+
+- **Statistics**
+- Robotics
+- **Machine Learning**
+
+### Customer service chatbot 
+
+- Statistics
+- Robotics
+- **Machine Learning**
+
+### Summarizing gallup results
+
+- **Statistics**
+- Robotics
+- Machine Learning
