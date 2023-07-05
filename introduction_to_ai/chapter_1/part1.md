@@ -1,11 +1,11 @@
-How should we define AI? 
+# How should we define AI? 
 
-Exercise 1: Is this AI or not?
+## Exercise 1: Is this AI or not?
 
-Which of the following are AI and which are not. 
-Choose yes, no, or “kind of” where kind of means that it both can be or can't be, depending on the viewpoint.
+** Which of the following are AI and which are not. 
+Choose yes, no, or “kind of” where kind of means that it both can be or can't be, depending on the viewpoint. **
 
-Note: You will only be able to submit the answer once, after which the correct answers will be revealed, 
+> Note: You will only be able to submit the answer once, after which the correct answers will be revealed, 
 so take your time and re-read the material above if you feel like it. 
 That said, don't worry if you get some of them wrong – some of them are debatable in any case because
 these kinds of things are rarely perfectly clear cut. We are quite sure that if you just focus and do your best, 
