@@ -26,3 +26,13 @@ Select the correct answer
 + 0
 
 The value is -1. The values on the second level are 0, 0, and -1. The values on the third level are -1, 0, -1, 0, -1, -1, which are the same as the values on the bottom level. As you can see, Max has all the reason to be serious since by playing in the bottom-right corner, Min can guarantee a win. The inevitable victory of Min can also be seen from the value of the game -1.
+
+---
+
+# After completing Chapter 2 you should be able to:
+
+- Formulate a real-world problem as a search problem
+
+- Formulate a simple game (such as tic-tac-toe) as a game tree
+
+- Use the minimax principle to find optimal moves in a limited-size game tree
