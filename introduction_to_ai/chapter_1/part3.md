@@ -24,3 +24,13 @@ Let's first scrutinize the following definitions that have been proposed earlier
 
 **Your answer should be at least 20 words**
 
+
+----
+
+# After completing Chapter 1 you should be able to:
+
++ Explain autonomy and adaptivity as key concepts for explaining AI
+
++ Distinguish between realistic and unrealistic AI (science fiction vs. real life)
+
++ Express the basic philosophical problems related to AI including the implications of the Turing test and Chinese room thought experiment
