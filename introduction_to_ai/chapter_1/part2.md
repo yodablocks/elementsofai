@@ -1,0 +1,45 @@
+# Related fields
+
+## Exercise 2: Taxonomy of AI
+
+![exercise2](https://github.com/yodablocks/elementsofai/assets/83685559/7fd2791e-09ef-4cea-8bd9-3c04f58f3577)
+
+### 1. Where would you put AI?
+
+- Section A
+- Section B
+- Section C
+- Section D
+- Section E
+
+### 2. Where would you put machine learning?
+
+- Section A
+- Section B
+- Section C
+- Section D
+- Section E
+
+### 3. Where would you put computer science?
+
+- Section A
+- Section B
+- Section C
+- Section D
+- Section E
+
+### 4. Where would you put data science?
+
+- Section A
+- Section B
+- Section C
+- Section D
+- Section E
+
+### 5. Where would you put deep learning?
+
+- Section A
+- Section B
+- Section C
+- Section D
+- Section E
