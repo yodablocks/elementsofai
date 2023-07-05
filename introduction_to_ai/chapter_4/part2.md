@@ -51,3 +51,9 @@ As discussed above, recommending news or social media content that a user is lik
 
 **Note:** 
 On using ChatGPT and similar models: We appreciate you putting an AI tool into use. Feel free to consult it but note that since we are interested in your own opinion, we expect you to write your final answers yourself.
+
+## My answer:
+
+Filter bubbles can be harmful because they limit exposure to different perspectives, reinforce biases, contribute to echo chambers and misinformation, and lead to societal division and polarization. Despite being based on users' preferences, they can hinder critical thinking and understanding of complex issues. Balancing personalized recommendations with diverse viewpoints is important for a well-rounded and informed society.
+
+One way to avoid filter bubbles while still providing personalized content recommendations is by incorporating a mix of different perspectives. This can be achieved by diversifying the sources of information and including content that challenges the user's existing viewpoints. By intentionally exposing users to a variety of opinions and sources, it helps promote a more balanced understanding of topics. Additionally, users can actively seek out and engage with content from diverse sources themselves, actively expanding their own perspectives and avoiding being confined to a limited bubble of information.
