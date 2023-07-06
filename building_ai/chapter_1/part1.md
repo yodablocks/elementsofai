@@ -8,7 +8,7 @@ The template code below contains an incomplete **permutations** function which t
 
 The mathematical term for such orderings is a permutation. Note that your program should work for an input **portnames** list of any length. The order in which the permutations are printed doesn't matter.
 
-As the output the function should print each permutation on its own row, as one string, with the port names separated by spaces. For this, you can use the `**join**` function as follows: `**print(' '.join([portnames[i] for i in route]))**`.
+As the output the function should print each permutation on its own row, as one string, with the port names separated by spaces. For this, you can use the `join` function as follows: `print(' '.join([portnames[i] for i in route]))`.
 
 Output Example
 PAN AMS CAS NYC HEL
