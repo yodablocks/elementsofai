@@ -2,9 +2,9 @@
 
 # I. Linear regression
  
-`a + c<sub>1</sub> × x<sub>1</sub> + c<sub>2</sub> × x<sub>2</sub> + c<sub>3</sub> × x<sub>3</sub>
-`​
-Where "a" is the intercept term.
+> a + c<sub>1</sub> × x<sub>1</sub> + c<sub>2</sub> × x<sub>2</sub> + c<sub>3</sub> × x<sub>3</sub>
+​
+**Where "a" is the intercept term.**
 
 The purpose of the intercept term is to make it possible to increment (or reduce if the intercept value is negative) the predicted values by a constant amount independently of the inputs.
 
