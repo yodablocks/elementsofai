@@ -11,9 +11,11 @@ The mathematical term for such orderings is a permutation. Note that your progra
 As the output the function should print each permutation on its own row, as one string, with the port names separated by spaces. For this, you can use the `join` function as follows: `print(' '.join([portnames[i] for i in route]))`.
 
 Output Example
+
 PAN AMS CAS NYC HEL
 
 ...
 
 PAN CAS AMS NYC HEL
-Tip: Your values might be different, but the formatting should be identical.
+
+## Tip: Your values might be different, but the formatting should be identical.
