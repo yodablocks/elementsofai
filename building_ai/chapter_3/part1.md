@@ -167,3 +167,69 @@ input_file = StringIO(input_string)
 fit_model(input_file)
 
 ```
+
+**The answer is correct.**
+
+## Exercise 14: Training data vs test data 
+
+Write a program that reads data about one set of cabins (training data), estimates linear regression coefficients based on it, then reads data about another set of cabins (test data), and predicts the prices in it. Note that both data sets contain the actual prices, but the program should ignore the prices in the second set. They are given only for comparison.
+
+The contents of the sets are as follows.
+
+<img width="864" alt="" src="https://github.com/yodablocks/elementsofai/assets/83685559/3e080a66-81e6-4146-8077-ffef72fd7bcc">
+
+<img width="864" alt="" src="https://github.com/yodablocks/elementsofai/assets/83685559/464f0e73-2853-4f9d-8040-b969e6b88293">
+
+You can read the data into the program the same way as in the previous exercise.
+
+You should then separate the feature and price data that you have just read from the file into two separate arrays names `x_train` and `y_train`, so that you can use them as argument to `np.linalg.lstsq`.
+
+The program should work even if the number of features used to describe the cabins differs from five (as long as the same number of features are given in each file).
+
+The output should be the set of coefficients for the linear regression and the predicted prices for the second set of cabins.
+
+## My answer:
+
+```
+import numpy as np
+from io import StringIO
+
+
+train_string = '''
+25 2 50 1 500 127900
+39 3 10 1 1000 222100
+13 2 13 1 1000 143750
+82 5 20 2 120 268000
+130 6 10 2 600 460700
+115 6 10 1 550 407000
+'''
+
+test_string = '''
+36 3 15 1 850 196000
+75 5 18 2 540 290000
+'''
+
+def main():
+    np.set_printoptions(precision=1)
+
+    data_train = np.genfromtxt(StringIO(train_string))
+    data_test = np.genfromtxt(StringIO(test_string))
+
+    x_train = data_train[:, :-1]
+    y_train = data_train[:, -1]
+
+    x_test = data_test[:, :-1]
+
+    coeff = np.linalg.lstsq(x_train, y_train, rcond=None)[0]
+
+    print(coeff)
+
+    print(x_test @ coeff)
+
+main()
+
+```
+
+**The answer is correct.**
+
+
