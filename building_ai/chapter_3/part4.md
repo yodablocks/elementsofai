@@ -51,20 +51,20 @@ There are two classes, and the data points are evenly split among them. Assignin
 1. the choice of k doesn't matter
 2. k = 1
 3. k = 250
-**4. k = 42**
+4. **k = 42**
 5.  k = 100
 
 ## Why ?
 
 1. it gave the lowest training accuracy
 2. it gave the highest training accuracy
-**3. it gave the highest testing accuracy**
+3. **it gave the highest testing accuracy**
 4. it gave the lowest testing accuracy
 5. the choice of k doesn't matter
 
 ## Is it possible to have a higher test set accuracy than training set accuracy?
 
-**1. Yes**
+1. **Yes**
 2. No
 
 It is possible, and for many reasons. For example if you are doing a classification task like here, if your data sets have class imbalance it can easily lead to such a scenario, or if your test set points in this example here would have been picked far away from the decision boundary then they would have been easier to classify correctly than those near the border.
