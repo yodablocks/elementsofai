@@ -36,6 +36,8 @@ print("testing accuracy: %f" % 0.0)
 
 ```
 
+<img width="747" alt="" src="https://github.com/yodablocks/elementsofai/assets/83685559/c8fb2541-d6ad-4fd3-85c0-34918fa71e47">
+
 ## What would be a reasonable baseline accuracy your model should outperform in order for it to be considered useful?
 
 **1. 0.5**
