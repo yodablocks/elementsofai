@@ -42,6 +42,8 @@ print("testing accuracy: %f" % 0.0)
 2. 0.25
 3. any performance that is better than all wrong is enough as a baseline
 
+There are two classes, and the data points are evenly split among them. Assigning every point to either class, or picking a class randomly would result in a 50% accuracy.There are two classes, and the data points are evenly split among them. Assigning every point to either class, or picking a class randomly would result in a 50% accuracy.
+
 ## Which of the following values of k do you think was "best"?
 
 1. the choice of k doesn't matter
@@ -62,3 +64,16 @@ print("testing accuracy: %f" % 0.0)
 
 **1. Yes**
 2. No
+
+It is possible, and for many reasons. For example if you are doing a classification task like here, if your data sets have class imbalance it can easily lead to such a scenario, or if your test set points in this example here would have been picked far away from the decision boundary then they would have been easier to classify correctly than those near the border.
+
+---
+
+## After completing this chapter, you should be able to:
+
+- Use linear regression to make predictions
+- Explain how the nearest neighbor method is used for both regression and classification tasks
+- Explain the basics of working with text via Natural Language Processing
+- Understand the risks of overfitting
+
+*Congratulations for finishing the chapter.*
