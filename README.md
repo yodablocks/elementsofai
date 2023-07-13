@@ -2,6 +2,8 @@
 
 **Course website:** [buildingai.elementsofai.com](https://buildingai.elementsofai.com)
 
+# Building AI:
+
 Chapter 1. Getting started with AI
     
     I. Why AI matters
