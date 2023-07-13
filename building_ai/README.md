@@ -74,5 +74,17 @@ To further develop this project, the following steps can be taken:
 
 Moving forward, expertise in machine learning, data analysis, and software development would be essential. Collaboration with finance professionals, domain experts, and legal advisors would also be valuable to ensure compliance with financial regulations and provide accurate and responsible investment advice.
 
+## Acknowledgments:
 
+We would like to express our gratitude to the following individuals and organizations for their contributions and support throughout the development of the AI-powered Crypto Investment Advisor project:
+
+- *Our instructors and mentors from the Building AI course* for providing valuable guidance, feedback, and inspiration.
+- The cryptocurrency exchange platforms, financial news platforms, and social media platforms for providing access to the necessary data sources.
+- The open-source community for developing and maintaining the libraries, frameworks, and tools used in this project.
+- The academic and research community for their contributions in the field of AI, machine learning, and natural language processing, which laid the foundation for this project.
+- The crypto community for their active participation, discussions, and feedback that helped shape the project's direction.
+- The users and beta testers who provided valuable feedback and insights during the testing phase, helping us improve the system.
+- Our friends and family for their continuous support and encouragement throughout the project.
+
+We are grateful for the collaborative efforts and contributions of all those involved, as they have been instrumental in bringing this project to fruition.
 
