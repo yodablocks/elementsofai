@@ -15,3 +15,5 @@ To conclude, it's now up to **YOU** to use existing **AI technology** to make th
 <img width="767" alt="" src="https://github.com/yodablocks/elementsofai/assets/83685559/89a1316e-0c1a-4a7f-be3d-ec5fd351d4fe">
 
 **Congratulations for finishing the course!**
+
+**I wanted to add, I primarily utilize Google Colab for testing my code due to its reliability and efficiency.**
