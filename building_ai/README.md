@@ -52,7 +52,9 @@ These data sources and AI methods are used in combination to collect, process, a
 
 ## Challenges
 
-![volatility](https://github.com/yodablocks/elementsofai/assets/83685559/4ac0c201-b135-44fd-b721-9e3c2210f163)
+![volatility](https://github.com/yodablocks/elementsofai/assets/83685559/4ac0c201-b135-44fd-b721-9e3c2210f163 )
+
+<img src="https://github.com/yodablocks/elementsofai/assets/83685559/4ac0c201-b135-44fd-b721-9e3c2210f163" width=50% height=50%>
 
 Some challenges and limitations of the project include:
 
