@@ -133,3 +133,12 @@ How could your project grow and become something even more? What kind of skills,
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
 ```
+
+You can copy the content from the template and paste it to your **README**:
+
+![editReadme](https://github.com/yodablocks/elementsofai/assets/83685559/c39d42f3-6826-4763-9a8e-9c499b1c03e5)
+
+---
+<img width="900" alt="" src="https://github.com/yodablocks/elementsofai/assets/83685559/c5343cb0-2bfb-47d3-84cb-ab1c992aec2d">
+
+
