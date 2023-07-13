@@ -59,7 +59,7 @@ These data sources and AI methods are used in combination to collect, process, a
 ## Challenges
 <p align="center">
 <img src="https://github.com/yodablocks/elementsofai/assets/83685559/4ac0c201-b135-44fd-b721-9e3c2210f163" width=50% height=50%>
-</p>p
+</p>
 Some challenges and limitations of the project include:
 
 - **Market unpredictability:** Crypto markets are highly volatile, and predicting price movements accurately is a challenging task.
