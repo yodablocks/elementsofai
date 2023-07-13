@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/yodablocks/elementsofai/assets/83685559/3c250c8e-8582-4eb4-81cd-f5d373a1f24c" width=50% height=50%>
+<p>
 # AI-powered Crypto Investment Advisor
 
 Final project for the Building AI course
