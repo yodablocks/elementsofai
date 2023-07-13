@@ -17,13 +17,13 @@ The project addresses several problems faced by crypto investors:
 Crypto investments have gained significant popularity, and the need for personalized advice is becoming more important as the market evolves. The motivation behind this project is to provide individual investors with a tool that can help them make more informed investment decisions and mitigate some of the risks associated with crypto investments.
 
 ## How is it used?
-
+<p align="center">
 <img src="https://github.com/yodablocks/elementsofai/assets/83685559/3ecb7c90-649b-4076-b44b-29de4adc1e56" width=50% height=50%>
-
+<p>
 Users will interact with the AI-powered system through *a web* or *mobile application*. They will provide information such as investment goals, risk tolerance, and preferred cryptocurrencies. The system will utilize machine learning algorithms to analyze historical market data, news sentiment, and user preferences to generate personalized investment recommendations.
-
+<p align="center">
 <img src="https://github.com/yodablocks/elementsofai/assets/83685559/1c772f4d-b29d-4873-b9dd-fb77180e8cca" width=50% height=50%>
-
+</p>p
 The solution is needed in situations where users are looking to invest in cryptocurrencies and seek guidance based on their risk profile and investment goals. It can be used by both novice and experienced investors who want to leverage AI technology to make informed decisions in the crypto market.
 
 ## Data sources and AI methods
@@ -53,9 +53,9 @@ AI methods such as natural language processing (NLP), sentiment analysis, and ma
 These data sources and AI methods are used in combination to collect, process, and analyze data related to cryptocurrencies. The collected data is then utilized by the AI models to predict price movements, perform sentiment analysis, and generate personalized investment recommendations for users.
 
 ## Challenges
-
+<p align="center">
 <img src="https://github.com/yodablocks/elementsofai/assets/83685559/4ac0c201-b135-44fd-b721-9e3c2210f163" width=50% height=50%>
-
+</p>p
 Some challenges and limitations of the project include:
 
 - **Market unpredictability:** Crypto markets are highly volatile, and predicting price movements accurately is a challenging task.
