@@ -17,3 +17,33 @@ To conclude, it's now up to **YOU** to use existing **AI technology** to make th
 **Congratulations for finishing the course!**
 
 **I wanted to add, I primarily utilize Google Colab for testing my code due to its reliability and efficiency.**
+
+---
+# II. Your AI idea
+
+So far, you have worked within the safe harbor of this course. The goal was to let you focus on the content instead of learning to install and use new applications and systems. The content was structured as small nuggets that you could solve one at a time to eventually construct the bigger picture – not unlike a jigsaw puzzle.
+
+But real-world problems aren't always served in single-serve portions. It's also necessary to practice the art of identifying a specific problem and sketching a solution without having a ready-made problem statement to begin with. Building AI solutions for real-world problems also requires that we venture out of our safe harbor and engage with the world. This can mean actively seeking more information about a problem, talking to those affected by it, teaming up with the rest of the AI community, and learning to use new tools.
+
+You can browse example projects created by others to gain inspiration, but don't hesitate to be creative and to think outside the box. The best-case scenario is that, with time, your project will grow into something that creates real change in your own community.
+
+[Have a look at the AI Idea Gallery](https://buildingai.elementsofai.com//Conclusion/ai-idea-gallery)
+
+## It's time for your AI idea
+
+To make it easier for you, we’re proposing you structure the project description around a list of topics. Once you have written down a few thoughts about each of these topics, you already have enough material to submit your project! If you’re up to it, you can also expand this into a working demo or prototype with code and data.
+
+### The topics we’ll ask you to elaborate are:
+
+1. **Your idea in a nutshell:** Name your project and prepare to describe it briefly.
+
+2. **Background:** What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+3. **Data and AI techniques:** What data sources does your project depend on? Almost all AI solutions depend on some data. The availability and quality of the data are essential. Which AI techniques do you think will be helpful? Depending on whether you've been doing the programming exercises or not, you may choose to include a concrete demo implemented by coding, using some actual data!
+
+4. **How is it used:** What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the viewpoints of all those affected.
+
+5. **Challenges:** What does your project not solve? It’s important to understand that any technological solution will have its limitations.
+What next: How could your project grow and become something even more?
+
+6. **Acknowledgments:** If you’re using open source code or documents in your project, make sure you give credit to the creators. Mention your sources of inspiration, too.
